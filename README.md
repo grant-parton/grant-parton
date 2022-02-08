@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Grant! I am a software developer on the DevOps team at Delphix. I enjoy working on:
+- Terraform infrastructure management
+- Python applications
+- CI/CD systems
+- Developer productivity tooling
+- Jenkins!  
+
 <!--
 **grant-parton/grant-parton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
